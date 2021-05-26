@@ -4,4 +4,4 @@ Biyon Gunasena
 twitter_username: TheBiyon58 
 github_username:  biyonbiyonbiyon 
 
-theme: minimal
+theme: minima
