@@ -10,4 +10,4 @@ description:
 twitter_username: TheBiyon58 
 github_username:  biyonbiyonbiyon 
 
-theme: minima
+theme: minimal
