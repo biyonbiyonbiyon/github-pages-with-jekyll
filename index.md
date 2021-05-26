@@ -1,8 +1,4 @@
-title: Biyons site
-----
-author: GitHub User
----
-email: bgunasena@ebnet.org
+Name: Biyon Gunasena
 ---
 description:  
   My name is Biyon my birthday is May 7
