@@ -4,6 +4,5 @@ Biyon Gunasena
 twitter_username: TheBiyon58 
 github_username:  biyonbiyonbiyon 
 
-show_excerpts: false
 
 theme: minima
