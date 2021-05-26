@@ -1,4 +1,4 @@
-Title: Biyon Gunasena
+Biyon Gunasena
 # Description:  
 # social links
 twitter_username: TheBiyon58 
